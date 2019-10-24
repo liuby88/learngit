@@ -5,4 +5,8 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add something AND  something.
+<<<<<<< Updated upstream
 Git is a free software ...
+=======
+test bug branch
+>>>>>>> Stashed changes
